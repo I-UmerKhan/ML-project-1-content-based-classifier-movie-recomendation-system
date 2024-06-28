@@ -4,5 +4,5 @@ I recently completed a project focused on building a movie recommendation system
 
 ![image](https://github.com/I-UmerKhan/ML-Project-1-Movie-recommendation-system/assets/103349712/3767ba8b-6f2b-4c8f-bc59-1da422086d08)
 
-![image](https://github.com/I-UmerKhan/ML-Project-1-Movie-recommendation-system/assets/103349712/a3520d9d-14ec-461e-bf2c-5972e2de9c71)
+![image](https://github.com/I-UmerKhan/ML-project-1-content-based-classifier-movie-recomendation-system/assets/103349712/ebec69bb-da7c-46af-9125-4617465c09a4)
 
